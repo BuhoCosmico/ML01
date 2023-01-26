@@ -18,3 +18,7 @@ Al momento de realizar la prediccion se utilizó Random Forest, dado que brindab
 + https://www.nltk.org/
 
 + https://www.youtube.com/@ecp5758/playlists
+
++ https://scikit-learn.org/stable/
+
++ https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
